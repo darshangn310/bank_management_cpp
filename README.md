@@ -1,1 +1,1 @@
-# bank_management_cpp
+This project implements a simple Bank Management System using C++. It allows users to open bank accounts, perform transactions (deposit/withdraw), check account balance, and save/load account details from a file. The system handles basic validations, such as verifying contact numbers and account numbers.
